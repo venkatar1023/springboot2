@@ -1,0 +1,5 @@
+language: java
+jdk:
+        - openjdk6
+
+# build_image: jmbataller/spring-boot-rest-api-sample
